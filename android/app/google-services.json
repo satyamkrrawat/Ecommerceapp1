@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723477639009",
+    "project_id": "vozzbuy-55417",
+    "storage_bucket": "vozzbuy-55417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723477639009:android:aa318f9e6bc33b7d5a1f20",
+        "android_client_info": {
+          "package_name": "com.example.mystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723477639009-aaf0trttu2ld480osv31oc8h8njg5vk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJno3JgScXleycanbt_O72a-wKZKMeIEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723477639009-aaf0trttu2ld480osv31oc8h8njg5vk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
